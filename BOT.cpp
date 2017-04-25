@@ -1,3 +1,4 @@
+//submitted. Accepted
 #include <iostream>
 #include <cmath>
 
